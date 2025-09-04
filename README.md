@@ -1,2 +1,74 @@
-# netflix-landing-page-clone
-A responsive Netflix landing page clone built with pure HTML &amp; CSS — a practice project to strengthen fundamentals and explore large-scale UI design.
+# 🎬 Netflix Landing Page Clone  
+
+A **Netflix landing page clone** built with **pure HTML & CSS**.  
+This is my **first ever web development project**, where I combined all my initial learnings in HTML & CSS to recreate a real-world UI.  
+
+---
+
+## 🚀 Project Overview  
+The aim of this project was to **practice fundamentals** and learn how to structure and style a large-scale webpage with precision.  
+
+For this version, I focused on:  
+- Positioning elements with fixed units  
+- Structuring sections cleanly in HTML  
+- Practicing CSS selectors (universal, element, ID, class)  
+- Creating a visually close clone of the Netflix landing page  
+
+⚠️ **Note:** This version is **not responsive** because I built it with fixed units to maintain pixel-perfect precision. Making it responsive would require restructuring most of the CSS — which I plan to tackle in future projects as my next milestone.  
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5** – for page structure  
+- **CSS3** – for styling and layout  
+
+---
+
+## ✨ Features  
+- 🎨 Netflix-inspired layout and color scheme  
+- 🔲 Pixel-precise positioning and sizing  
+- 🖼️ Clean structure for practice and learning  
+- 📝 Organized CSS with clear selector usage  
+
+---
+
+## 📂 Project Structure  
+
+```plaintext
+netflix-landing-page-clone/
+├── index.html      # Main HTML file
+├── style.css       # CSS stylesheet
+└── assets/         # Images, SVGs, icons
+
+---
+
+## 🎯 Learning Outcomes  
+Through this project, I practiced:  
+- Building a large UI section-by-section  
+- Using fixed units to position and size elements with accuracy  
+- Applying different CSS selectors effectively  
+- Developing attention to detail while cloning a professional website  
+
+---
+
+## 📸 Preview  
+
+### Hero Section (on page load)  
+![Hero Screenshot](assets/hero.png)  
+
+### Full Page (entire clone)  
+![Full Page Screenshot](assets/netflix-clone.png)  
+
+---
+
+## 📌 Next Steps / Improvements  
+- ✅ Rebuild with **responsive design** using relative units, Flexbox, and Grid  
+- ✅ Add hover animations and transitions for interactivity  
+- ✅ Optimize images and assets for performance  
+- ✅ Improve accessibility with alt tags and semantic markup  
+
+---
+
+## 🙌 Acknowledgements  
+Inspired by Netflix’s official landing page.  
+Built as part of my **HTML & CSS learning journey**.  
