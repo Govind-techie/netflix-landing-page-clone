@@ -34,7 +34,6 @@ For this version, I focused on:
 
 ## 📂 Project Structure  
 
-```plaintext
 netflix-landing-page-clone/
 ├── index.html      # Main HTML file
 ├── style.css       # CSS stylesheet
