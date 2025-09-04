@@ -34,10 +34,19 @@ For this version, I focused on:
 
 ## 📂 Project Structure  
 
-netflix-landing-page-clone/
-├── index.html      # Main HTML file
-├── style.css       # CSS stylesheet
-└── assets/         # Images, SVGs, icons
+📂 netflix-landing-page-clone/
+│
+├── 📄 index.html            # Main HTML file (entry point)
+│
+├── 📂 css/                  # Stylesheets
+│   └── style.css            # Main CSS file
+│
+├── 📂 assets/               # Images, SVGs, icons
+│   ├── hero.png             # Hero section image
+│   ├── netflix-clone.png    # Preview image for README
+│   └── ...                  # Other images/icons
+│
+└── 📂 README.md             # Project documentation
 
 ---
 
