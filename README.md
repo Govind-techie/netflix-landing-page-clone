@@ -51,16 +51,6 @@ Through this project, I practiced:
 
 ---
 
-## 📸 Preview  
-
-### Hero Section (on page load)  
-![Hero Screenshot](assets/hero.png)  
-
-### Full Page (entire clone)  
-![Full Page Screenshot](assets/netflix-clone.png)  
-
----
-
 ## 📌 Next Steps / Improvements  
 - ✅ Rebuild with **responsive design** using relative units, Flexbox, and Grid  
 - ✅ Add hover animations and transitions for interactivity  
